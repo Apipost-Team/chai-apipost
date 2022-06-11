@@ -3,5 +3,5 @@
 
 ## Install
 ```bash
-$ npm install chai-postman --save-dev
+$ npm install chai-apipost
 ```
